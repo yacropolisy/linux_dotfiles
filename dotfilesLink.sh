@@ -2,6 +2,6 @@
 set -eu
 # set -x
 
-ln -nfs ~/dotfiles/.bash_profile  ~/.bash_profile
-ln -nfs ~/dotfiles/.tmux.conf ~/.tmux.conf
-ln -nfs ~/dotfiles/.gitconfig  ~/.gitconfig
+ln -nfs ~/linux_dotfiles/.bash_profile  ~/.bash_profile
+ln -nfs ~/linux_dotfiles/.tmux.conf ~/.tmux.conf
+ln -nfs ~/linux_dotfiles/.gitconfig  ~/.gitconfig
